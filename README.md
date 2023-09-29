@@ -3,6 +3,9 @@ Welcome to the Alarm Clock project!
 
 Rise and shine with style using this beautifully designed web-based alarm clock. This project combines the magic of HTML, CSS, and JavaScript to deliver an alarm clock that not only keeps you on time but also makes mornings more delightful.
 
+## Preview
+![image](https://github.com/YawBoah/Alarm-Clock/assets/126890146/f889b301-c1c6-483e-8cf5-038bdc8d4d39)
+
 ## Features that Make Your Day:
 🚀 Intuitive Interface: Select your wake-up time effortlessly with dropdown menus for hours, minutes, and AM/PM.
 
