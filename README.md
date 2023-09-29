@@ -17,3 +17,18 @@ Rise and shine with style using this beautifully designed web-based alarm clock.
 - Click the "Set Alarm" button to activate the magic.
 - Get ready for a delightful wake-up experience.
 - With this Alarm Clock, your mornings just got a whole lot better! 🌅
+
+## Installation
+
+1. Clone the repository or download the ZIP file.
+   ```bash
+   git clone https://github.com/YawBoah/alarm-clock.git
+   ```
+
+2. Navigate to the project directory.
+   ```bash
+   cd alarm-clock
+   ```
+
+3. Open the `index.html` file in your web browser.
+
