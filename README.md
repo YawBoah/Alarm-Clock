@@ -32,3 +32,16 @@ Rise and shine with style using this beautifully designed web-based alarm clock.
 
 3. Open the `index.html` file in your web browser.
 
+## Contributing
+
+Contributions are welcome! If you'd like to improve the alarm clock or have any suggestions, please open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize this README to include any additional information or instructions you find relevant for your project. Good luck with your Alarm Clock project!
+
+
